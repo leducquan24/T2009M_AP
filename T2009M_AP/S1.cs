@@ -2,6 +2,7 @@
 {
     public class S1
     {
+        /*
         public int id;
         public string name;
         public string price;
@@ -17,6 +18,6 @@
             this.name = name;
             this.price = price;
             this.qty = qty;
-        }
+        }*/
     }
 }
