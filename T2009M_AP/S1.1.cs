@@ -14,12 +14,12 @@ namespace T2009M_AP
         public string description;
         public List<string>gallery  ;
 
-        public lab1()
+        public S1_1()
         {
             gallery = new List<string>();
         }
 
-        public lab1(int id, string name, decimal price, int qty, string image, string description)
+        public S1_1(int id, string name, decimal price, int qty, string image, string description)
         {
             this.id = id;
             this.name = name;
